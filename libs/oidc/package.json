@@ -26,7 +26,9 @@
     "passport-jwt": "^4.0.0"
   },
   "optionalDependencies": {
-    "connect-mongo": "4.4.0",
-    "@types/mongodb": "^3.6.5"
+    "@prisma/client": "^3.6.0",
+    "@quixo3/prisma-session-store": "^3.1.2",
+    "@types/mongodb": "^3.6.5",
+    "connect-mongo": "4.4.0"
   }
 }
